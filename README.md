@@ -78,22 +78,6 @@ In the third course of the Machine Learning Specialization, you will:
 
 ---
 
-## Instructors
+## Links
 
-### Andrew Ng
-TOP INSTRUCTOR
-Instructor
-Founder, DeepLearning.AI & Co-founder, Coursera
-
-### Eddy Shyu
-Curriculum Architect
-Product Lead, DeepLearning.AI
-
-### Aarti Bagul
-TOP INSTRUCTOR
-Curriculum Engineer
-
-### Geoff Ladwig
-TOP INSTRUCTOR
-Curriculum Engineer
-DeepLearning.AI
+https://github.com/topics/andrew-ng-course?o=desc&s=updated
