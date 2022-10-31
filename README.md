@@ -81,3 +81,4 @@ In the third course of the Machine Learning Specialization, you will:
 ## Links
 
 https://github.com/topics/andrew-ng-course?o=desc&s=updated
+https://www.kaggle.com/getting-started/102365
